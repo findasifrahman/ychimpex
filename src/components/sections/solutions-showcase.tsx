@@ -39,7 +39,7 @@ export function SolutionsShowcase() {
                   </Badge>
                 </div>
                 <div>
-                  <h3 className="text-3xl font-semibold tracking-tight text-white">
+                  <h3 className="text-2xl font-semibold tracking-tight text-white sm:text-3xl">
                     {featuredSolution.title}
                   </h3>
                   <p className="mt-4 max-w-3xl text-base leading-8 text-slate-300">

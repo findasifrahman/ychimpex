@@ -11,9 +11,9 @@ export function CtaStrip() {
           <p className="text-sm font-semibold tracking-[0.16em] text-cyan-950 uppercase">
             Request a Quotation
           </p>
-          <h2 className="mt-2 text-2xl font-semibold tracking-tight text-slate-950 sm:text-3xl">
+          <p className="mt-2 text-2xl font-semibold tracking-tight text-gray-900 sm:text-3xl">
             Need pricing, brand availability, or documentation-backed sourcing support?
-          </h2>
+          </p>
         </div>
         <div className="flex flex-wrap gap-3">
           <Button asChild variant="secondary">

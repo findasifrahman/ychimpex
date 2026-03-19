@@ -22,7 +22,7 @@ export function SectionHeading({
       <div className="space-y-3">
         <h2
           className={cn(
-            "text-8xl font-semibold tracking-tight sm:text-5xl lg:text-6xl",
+            "text-2xl font-semibold leading-[1.08] tracking-tight sm:text-3xl lg:text-5xl xl:text-6xl",
             tone === "light" ? "text-white" : "text-slate-950",
           )}
         >
@@ -31,7 +31,7 @@ export function SectionHeading({
         {description ? (
           <p
             className={cn(
-              "text-lg leading-8 sm:text-xl",
+              "text-base leading-7 sm:text-lg sm:leading-8 lg:text-xl",
               tone === "light" ? "text-slate-300" : "text-slate-600",
             )}
           >

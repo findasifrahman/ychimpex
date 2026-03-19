@@ -30,27 +30,27 @@ export function HomeHero() {
 
       <div className="relative mx-auto max-w-7xl px-6 py-24 sm:px-8 lg:px-10 lg:py-10">
         <Reveal className="max-w-4xl space-y-8">
-          <Badge className="border-white/15 bg-white/10 text-cyan-200" style={{fontSize:22}}>
+          <Badge className="max-w-full border-white/15 bg-white/10 px-4 py-2 text-[11px] leading-5 text-cyan-200 sm:text-sm">
             Hong Kong and Mainland China Based Technical Sourcing Partner
           </Badge>
 
           <div className="flex items-center gap-4">
             <LogoMark className="border-white/10 bg-white/10 text-cyan-200 shadow-cyan-500/10" />
             <div>
-              <p className="text-xs font-semibold tracking-[0.18em] text-slate-300 uppercase">
+              <p className="text-[10px] font-semibold tracking-[0.14em] text-slate-300 uppercase sm:text-xs sm:tracking-[0.18em]">
                 {company.name}
               </p>
-              <p className="text-sm text-slate-400">
+              <p className="text-xs text-slate-400 sm:text-sm">
                 Scientific, laboratory, and industrial equipment supply
               </p>
             </div>
           </div>
 
           <div className="space-y-6">
-            <h1 className="max-w-4xl text-4xl font-semibold tracking-tight text-white sm:text-5xl lg:text-6xl">
-              Trusted Hong Kong Partner for Laboratory, Scientific & Industrial Equipment
+            <h1 className="max-w-4xl text-[clamp(2rem,7vw,4.5rem)] font-semibold tracking-tight leading-[1.02] text-white">
+              Trusted Partner for Scientific & Industrial Equipment
             </h1>
-            <p className="max-w-3xl text-base leading-8 text-slate-200 sm:text-lg">
+            <p className="max-w-3xl text-sm leading-7 text-slate-200 sm:text-lg sm:leading-8">
               Chimpex International supplies advanced instruments, laboratory systems,
               industrial equipment, technical tools, and specialized solutions from
               reputed global manufacturers for research, education, testing, safety,
@@ -65,15 +65,15 @@ export function HomeHero() {
                 className="rounded-[24px] border border-white/10 bg-white/10 px-4 py-4 backdrop-blur-sm"
               >
                 <div className="flex items-start gap-3">
-                  <CheckCircle2 className="mt-0.5 h-5 w-5 text-cyan-300" />
-                  <p className="text-sm leading-6 text-slate-100">{point}</p>
+                  <CheckCircle2 className="mt-0.5 h-4 w-4 shrink-0 text-cyan-300 sm:h-5 sm:w-5" />
+                  <p className="text-xs leading-6 text-slate-100 sm:text-sm">{point}</p>
                 </div>
               </div>
             ))}
           </div>
 
           <div className="flex flex-wrap gap-3">
-            <Button asChild size="lg">
+            <Button asChild size="lg" className="w-full sm:w-auto">
               <Link href="/contact">
                 Request a Quote
                 <ArrowRight className="h-4 w-4" />
@@ -83,13 +83,13 @@ export function HomeHero() {
               asChild
               size="lg"
               variant="outline"
-              className="border-white/15 bg-white/10 text-white hover:bg-white/15 hover:text-white"
+              className="w-full border-white/15 bg-white/10 text-white hover:bg-white/15 hover:text-white sm:w-auto"
             >
               <Link href="/brands">View Brands</Link>
             </Button>
           </div>
 
-          <div className="inline-flex max-w-full items-center gap-3 rounded-full border border-white/10 bg-white/10 px-4 py-3 text-sm text-slate-100 backdrop-blur-sm">
+          <div className="inline-flex max-w-full items-center gap-3 rounded-[24px] border border-white/10 bg-white/10 px-4 py-3 text-xs leading-6 text-slate-100 backdrop-blur-sm sm:rounded-full sm:text-sm">
             <ShieldCheck className="h-4 w-4 shrink-0 text-cyan-300" />
             <span>{company.heroTrust}</span>
           </div>

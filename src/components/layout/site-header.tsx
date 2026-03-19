@@ -39,13 +39,13 @@ export function SiteHeader() {
       )}
     >
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4 sm:px-8 lg:px-10">
-        <Link href="/" className="flex items-center gap-3">
+        <Link href="/" className="flex min-w-0 items-center gap-2 sm:gap-3">
           <LogoMark compact />
           <div className="min-w-0">
-            <p className="truncate text-sm font-semibold tracking-[0.16em] text-slate-500 uppercase">
-              Hong Kong and Mainland china
+            <p className="truncate text-[10px] font-semibold tracking-[0.12em] text-slate-500 uppercase sm:text-sm sm:tracking-[0.16em]">
+              Hong Kong and Mainland China
             </p>
-            <p className="text-sm font-semibold text-slate-950 sm:text-base">
+            <p className="truncate text-xs font-semibold text-slate-950 sm:text-base">
               {company.shortName}
             </p>
           </div>

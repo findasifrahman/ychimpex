@@ -36,7 +36,7 @@ export function ContactPageContent() {
             <p className="text-sm font-semibold uppercase tracking-[0.18em] text-cyan-300">
               Contact Details
             </p>
-            <h2 className="text-4xl font-semibold tracking-tight text-white">
+            <h2 className="text-3xl font-semibold tracking-tight text-white sm:text-4xl">
               Let&apos;s start the quotation process with the right technical context
             </h2>
             <p className="text-base leading-8 text-slate-300">
@@ -104,7 +104,7 @@ export function ContactPageContent() {
             <p className="text-sm font-semibold uppercase tracking-[0.18em] text-slate-500">
               Inquiry Form
             </p>
-            <h2 className="text-4xl font-semibold tracking-tight text-slate-950">
+            <h2 className="text-3xl font-semibold tracking-tight text-slate-950 sm:text-4xl">
               Request a quote or send a sourcing brief
             </h2>
             <p className="text-base leading-8 text-slate-600">

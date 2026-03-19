@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import type { Viewport } from "next";
 import { Instrument_Serif, Manrope } from "next/font/google";
 
 import { SiteFooter } from "@/components/layout/site-footer";
@@ -21,6 +22,11 @@ export const metadata: Metadata = {
     "Chimpex International | Laboratory, Scientific & Industrial Equipment Supplier, Hong Kong",
   description:
     "Chimpex International Co., Limited is a Hong Kong based supplier of laboratory equipment, scientific instruments, industrial systems, test and measurement tools, safety solutions, and technical products from reputed international brands.",
+};
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
 };
 
 export default function RootLayout({

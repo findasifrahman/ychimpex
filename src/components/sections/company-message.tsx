@@ -55,10 +55,10 @@ export function CompanyMessage() {
                   <MessageSquareQuote className="h-6 w-6" />
                 </div>
                 <div>
-                  <h3 className="text-3xl font-semibold tracking-tight text-slate-950 sm:text-4xl">
+                  <h3 className="text-2xl font-semibold leading-tight tracking-tight text-slate-950 sm:text-3xl lg:text-4xl">
                     A sourcing philosophy built on trust, technical clarity, and long-term relationships
                   </h3>
-                  <p className="mt-4 text-base leading-8 text-slate-600 sm:text-lg">
+                  <p className="mt-4 text-sm leading-7 text-slate-600 sm:text-base sm:leading-8 lg:text-lg">
                     Chimpex International is committed to representing technical brands
                     responsibly, supporting buyers with organized communication, and helping
                     institutions source specialized products with confidence.
