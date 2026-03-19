@@ -495,11 +495,6 @@ export const contactDetails = [
     icon: BadgeCheck,
   },
   {
-    label: "Email",
-    value: company.email,
-    icon: Activity,
-  },
-  {
     label: "Phone",
     value: company.phone,
     icon: ShieldCheck,
