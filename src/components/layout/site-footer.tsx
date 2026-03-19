@@ -71,7 +71,6 @@ export function SiteFooter() {
                 ))}
               </div>
             ))}
-            <p>{company.email}</p>
             <p>{company.phone}</p>
             <div className="flex gap-3 pt-2">
               <span className="rounded-full border border-slate-800 px-3 py-1 text-xs">

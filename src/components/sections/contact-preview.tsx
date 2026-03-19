@@ -14,7 +14,6 @@ export function ContactPreview() {
       value: company.addresses.flatMap((address) => [address.label, ...address.lines]),
       icon: MapPinned,
     },
-    { label: "Email", value: [company.email], icon: Mail },
     { label: "Phone", value: [company.phone], icon: Phone },
   ];
 

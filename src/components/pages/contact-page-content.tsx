@@ -16,7 +16,6 @@ export function ContactPageContent() {
     },
     {
       title: "Email",
-      body: [company.email],
       icon: Mail,
       tone: "bg-emerald-500/12 text-emerald-700",
     },
