@@ -35,7 +35,6 @@ export const company = {
       ],
     },
   ],
-  email: "sales@chimpex.example",
   phone: "+8613265980063",
   heroTrust:
     "Trusted sourcing partner for laboratories, universities, industrial users, and institutional buyers",

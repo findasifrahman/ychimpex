@@ -21,7 +21,7 @@ export function CompanyMessage() {
             <div className="overflow-hidden rounded-[28px] border border-slate-200 bg-[linear-gradient(180deg,#eff6ff,#f8fafc)]">
               {!failed ? (
                 <img
-                  src="/images/chairman.png"
+                  src="/images/chairman.jpg"
                   alt="Company representative portrait"
                   className="aspect-[1/1.6] h-full w-full object-cover"
                   loading="lazy"
