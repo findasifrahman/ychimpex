@@ -56,16 +56,7 @@ export function ContactPageContent() {
                   </div>
                   <div>
                     <h3 className="text-lg font-semibold text-white">{detail.title}</h3>
-                    <div className="mt-2 space-y-1">
-                      {detail.body.map((line, index) => (
-                        <p
-                          key={`${detail.title}-${line}-${index}`}
-                          className="text-sm leading-7 text-slate-300"
-                        >
-                          {line}
-                        </p>
-                      ))}
-                    </div>
+
                   </div>
                 </div>
               </div>
