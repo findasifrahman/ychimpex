@@ -1,0 +1,11 @@
+<svg width="1200" height="960" viewBox="0 0 1200 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="960" fill="#06131F"/>
+  <circle cx="980" cy="210" r="220" fill="#22D3EE" fill-opacity="0.22"/>
+  <rect x="174" y="196" width="850" height="470" rx="56" fill="#0F172A" stroke="white" stroke-opacity="0.14" stroke-width="4"/>
+  <path d="M610 270L788 374V580L610 684L432 580V374L610 270Z" stroke="#A5F3FC" stroke-width="6"/>
+  <path d="M610 270V478M432 374L610 478M788 374L610 478M610 478V684" stroke="#A5F3FC" stroke-width="4"/>
+  <circle cx="334" cy="430" r="66" fill="#083344"/>
+  <rect x="302" y="380" width="66" height="108" rx="20" fill="#CFFAFE"/>
+  <text x="174" y="790" fill="white" fill-opacity="0.92" font-family="Arial, sans-serif" font-size="58" font-weight="700">3D Scanning</text>
+  <text x="174" y="856" fill="#7DD3FC" font-family="Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="3">&amp; MODELING</text>
+</svg>

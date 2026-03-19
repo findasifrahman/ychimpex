@@ -1,0 +1,12 @@
+<svg width="1200" height="960" viewBox="0 0 1200 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="960" fill="#071827"/>
+  <circle cx="936" cy="186" r="168" fill="#F59E0B" fill-opacity="0.3"/>
+  <circle cx="250" cy="760" r="220" fill="#06B6D4" fill-opacity="0.16"/>
+  <rect x="178" y="214" width="844" height="462" rx="56" fill="#0F172A" stroke="white" stroke-opacity="0.14" stroke-width="4"/>
+  <path d="M264 554L420 364L560 554H264Z" fill="#083344"/>
+  <path d="M570 554L738 312L908 554H570Z" fill="#0B2540"/>
+  <circle cx="844" cy="332" r="54" fill="#FBBF24"/>
+  <path d="M844 230V256M844 408V434M946 332H972M716 332H742M916 260L934 242M754 422L772 404M916 404L934 422M754 242L772 260" stroke="#FBBF24" stroke-width="6" stroke-linecap="round"/>
+  <text x="178" y="792" fill="white" fill-opacity="0.92" font-family="Arial, sans-serif" font-size="58" font-weight="700">Solar &amp; Environmental</text>
+  <text x="178" y="858" fill="#7DD3FC" font-family="Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="3">MEASUREMENT</text>
+</svg>

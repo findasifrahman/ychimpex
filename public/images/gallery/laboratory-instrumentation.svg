@@ -1,0 +1,14 @@
+<svg width="1200" height="960" viewBox="0 0 1200 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="960" fill="#071827"/>
+  <circle cx="926" cy="210" r="200" fill="#22D3EE" fill-opacity="0.24"/>
+  <circle cx="236" cy="774" r="210" fill="#0F766E" fill-opacity="0.28"/>
+  <rect x="164" y="208" width="308" height="438" rx="56" fill="#0F172A" stroke="white" stroke-opacity="0.16" stroke-width="4"/>
+  <rect x="250" y="144" width="136" height="92" rx="28" fill="#0F172A" stroke="white" stroke-opacity="0.24" stroke-width="4"/>
+  <path d="M318 288L250 436H386L318 288Z" fill="#CFFAFE"/>
+  <rect x="538" y="228" width="464" height="264" rx="40" fill="#0B2540" stroke="white" stroke-opacity="0.14" stroke-width="4"/>
+  <circle cx="764" cy="360" r="90" stroke="#CFFAFE" stroke-width="6"/>
+  <circle cx="764" cy="360" r="42" fill="#22D3EE" fill-opacity="0.5"/>
+  <path d="M602 628C726 522 866 478 1032 450" stroke="white" stroke-opacity="0.18" stroke-width="4"/>
+  <text x="164" y="780" fill="white" fill-opacity="0.88" font-family="Arial, sans-serif" font-size="58" font-weight="700">Laboratory</text>
+  <text x="164" y="846" fill="#7DD3FC" font-family="Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="3">INSTRUMENTATION</text>
+</svg>

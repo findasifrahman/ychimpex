@@ -1,0 +1,14 @@
+<svg width="1200" height="960" viewBox="0 0 1200 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="960" fill="#06131F"/>
+  <circle cx="922" cy="222" r="208" fill="#0F766E" fill-opacity="0.2"/>
+  <rect x="148" y="242" width="906" height="390" rx="56" fill="#0F172A" stroke="white" stroke-opacity="0.14" stroke-width="4"/>
+  <rect x="212" y="304" width="286" height="214" rx="28" fill="#0B2540"/>
+  <rect x="530" y="304" width="460" height="214" rx="28" fill="#111827"/>
+  <path d="M580 420H936" stroke="#67E8F9" stroke-width="4" stroke-linecap="round"/>
+  <path d="M580 370H782" stroke="#67E8F9" stroke-width="4" stroke-linecap="round"/>
+  <path d="M580 470H856" stroke="#67E8F9" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="332" cy="412" r="62" stroke="#CFFAFE" stroke-width="6"/>
+  <path d="M310 412L328 430L360 394" stroke="#CFFAFE" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="148" y="786" fill="white" fill-opacity="0.92" font-family="Arial, sans-serif" font-size="58" font-weight="700">Industrial Engineering</text>
+  <text x="148" y="852" fill="#7DD3FC" font-family="Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="3">WORKSTATIONS</text>
+</svg>

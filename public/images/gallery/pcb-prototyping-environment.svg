@@ -1,0 +1,13 @@
+<svg width="1200" height="960" viewBox="0 0 1200 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="960" fill="#081420"/>
+  <circle cx="926" cy="236" r="220" fill="#0F766E" fill-opacity="0.22"/>
+  <rect x="176" y="202" width="846" height="470" rx="56" fill="#0B1120" stroke="white" stroke-opacity="0.14" stroke-width="4"/>
+  <rect x="246" y="286" width="706" height="302" rx="36" fill="#083344"/>
+  <path d="M316 338H882M316 392H882M316 446H882M316 500H882" stroke="#67E8F9" stroke-opacity="0.55" stroke-width="4"/>
+  <path d="M392 310V562M524 310V562M656 310V562M788 310V562" stroke="#67E8F9" stroke-opacity="0.55" stroke-width="4"/>
+  <circle cx="392" cy="392" r="18" fill="#F8FAFC"/>
+  <circle cx="656" cy="500" r="18" fill="#F8FAFC"/>
+  <circle cx="788" cy="338" r="18" fill="#F8FAFC"/>
+  <text x="176" y="794" fill="white" fill-opacity="0.92" font-family="Arial, sans-serif" font-size="58" font-weight="700">PCB Prototyping</text>
+  <text x="176" y="860" fill="#7DD3FC" font-family="Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="3">ENGINEERING ENVIRONMENT</text>
+</svg>
